@@ -69,11 +69,6 @@ footer {
   color: #555;
 }
 <link rel="stylesheet" href="style.css" />
-.hero-image {
-  max-width-middil: 100%;
-  height: auto;
-  margin-top: 40px;
-  border-radius: 32px;
 }
 .footer-image {
   display: block;
