@@ -18,10 +18,3 @@ It includes an overview of core AWS services, my learning path, and the skills I
 **Created by:** Hassena Alkindi  
 **Date:** May 2025  
 **Deployed here:** [Click to View Project](https://halkindi31.github.io/AWS-2-Becoming-a-Solutions-Architect/)
-.footer-image {
-  display: block;
-  margin: 40px auto 20px;
-  max-width: 500px;
-  width: 90%;
-  border-radius: 10px;
-}
