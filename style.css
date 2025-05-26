@@ -75,3 +75,10 @@ footer {
   margin-top: 40px;
   border-radius: 32px;
 }
+.footer-image {
+  display: block;
+  margin: 40px auto 20px;
+  max-width: 500px;
+  width: 90%;
+  border-radius: 10px;
+}
