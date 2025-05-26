@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-05-26 at 9 37 41 PM](https://github.com/user-attachments/assets/3f713e37-3ca4-4048-a5d0-37db5206fbb6)
 # AWS-2-Becoming-a-Solutions-Architect
 
 This is my portfolio project for the AWS Cloud Computing course.
